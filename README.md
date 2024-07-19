@@ -1,1 +1,1 @@
-prediction market amm simplified 
+LMSR prediction market amm simplified 
