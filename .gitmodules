@@ -1,0 +1,3 @@
+[submodule "conditional-tokens-tutorial"]
+	path = conditional-tokens-tutorial
+	url = https://github.com/gnosis/conditional-tokens-tutorial.git
