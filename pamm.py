@@ -4,7 +4,7 @@ class PredictionMarket:
     def __init__(self, b=10):
         self.b = b  # Liquidity parameter
         self.shares = {'yes': 100, 'no': 200}  # Initial shares
-        self.pool = 0  # Initial pool of money
+        self.pool = 100  # Initial pool of money
         self.fee_percentage = 0.02  # Transaction fee percentage
 
     def price(self):
